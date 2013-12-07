@@ -7,9 +7,10 @@
 		"DocBlockr",
 		"EditorConfig",
 		"Goto Documentation",
+		"LESS",
+		"PHP Companion",
 		"PHP-Twig",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SuperNavigator",
 		"Symfony2 Snippets"
 	]
