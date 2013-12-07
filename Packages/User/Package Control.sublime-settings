@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Goto Documentation",
+		"PHP-Twig",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SuperNavigator",
+		"Symfony2 Snippets"
+	]
+}
