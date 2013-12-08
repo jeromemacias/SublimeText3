@@ -9,6 +9,7 @@
 	"codeintel_live": false,
 	"color_scheme": "Packages/PHP-Twig/Extras/Themes/Monokai Bright.tmTheme",
 	"default_line_ending": "unix",
+	"draw_white_space": "all",
 	"find_selected_text": true,
 	"font_size": 12.0,
 	"highlight_line": true,
@@ -20,6 +21,5 @@
 	"line_padding_top": 1,
 	"sublimelinter": false,
 	"translate_tabs_to_spaces": true,
-	"tree_animation_enabled": false,
-    "draw_white_space": "all",
+	"tree_animation_enabled": false
 }

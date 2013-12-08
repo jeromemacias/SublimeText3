@@ -12,6 +12,7 @@
 		"PHP-Twig",
 		"SideBarEnhancements",
 		"SuperNavigator",
-		"Symfony2 Snippets"
+		"Symfony2 Snippets",
+		"Xdebug Client"
 	]
 }
