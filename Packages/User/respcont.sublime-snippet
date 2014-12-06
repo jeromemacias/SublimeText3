@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+echo \$this->client->getResponse()->getContent(); die;
+]]></content>
+    <tabTrigger>respcont</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -7,18 +7,24 @@
 		"JavaScript"
 	],
 	"codeintel_live": false,
-	"color_scheme": "Packages/PHP-Twig/Extras/Themes/Monokai Bright.tmTheme",
+	"color_scheme": "Packages/User/Monokai Bright (SL).tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": "all",
 	"find_selected_text": true,
-	"font_size": 12.0,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Markdown Preview",
+		"Vintage",
+		"Markdown"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"rulers":
+	[
+		120
+	],
 	"sublimelinter": false,
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false
